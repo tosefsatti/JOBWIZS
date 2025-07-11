@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional enhancements if you need global refinements */
+/* ...existing code... */
+
+body {
+
+    /* background: linear-gradient(to left, #e1a9a9, #333 50%, #eee 75%, #f1e1e1 75%); */
+
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+
+    /* background: linear-gradient(00.25turn, gray, teal); */
+
+    /* background:
+        linear-gradient(217deg, rgba(255, 0, 0, 0.8), rgba(255, 0, 0, 0) 70.71%),
+        linear-gradient(127deg, rgba(0, 255, 0, 0.8), rgba(0, 255, 0, 0) 70.71%),
+        linear-gradient(336deg, rgba(0, 0, 255, 0.8), rgba(0, 0, 255, 0) 70.71%); */
+}
+
+/* ...existing code... */
